@@ -8,4 +8,4 @@ INSERT INTO bears (name, age, gender, color, temperament, alive)
 VALUES ('Tabitha', 7, 'Female', 'White', 'Diva', 1)
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ('Mr. Chocolate', 2, 'Male', 'Cocoa Brown', 'Sweet', 1)
+VALUES ('Sergeant Brown', 5, 'Male', 'Ashy Brown', 'Courageous', 0)
