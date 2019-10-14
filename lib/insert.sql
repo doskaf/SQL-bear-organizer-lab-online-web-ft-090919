@@ -11,4 +11,4 @@ INSERT INTO bears (name, age, gender, color, temperament, alive)
 VALUES ('Sergeant Brown', 5, 'Male', 'Ashy Brown', 'Courageous', 0)
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ('Melissa', 4, 'Female', 'Rosy Brown', 'Courageous', 0)
+VALUES ('Melissa', 4, 'Female', 'Rosy Brown', 'Shy', 1)
